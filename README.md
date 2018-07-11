@@ -1,2 +1,2 @@
 # DSEH
-Deep Joint Semantic-Embedding Hashing
+Deep Joint Semantic-Embedding Hashing(IJCAI2018)
