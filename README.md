@@ -10,12 +10,12 @@
 ![map](fig/map.png)
 >PR curve
 
-![11](fig/pr_nuswide_32.png)![12](fig/pr_imagenet_32.png)![13](fig/pr_coco_32.png)
+<img src="fig/pr_nuswide_32.png" height="200"/> <img src="fig/pr_imagenet_32.png" height="200"/> <img src="fig/pr_coco_32.png" height="200"/> <img src="fig/next.png" height="200"/> 
 
 >Top 1000 curve
 
-![21](fig/Top1000_nuswide_32.png)![22](fig/Top1000_imagenet_32.png)![23](fig/Top1000_coco_32.png)
+<img src="fig/Top1000_nuswide_32.png" height="200"/><img src="fig/Top1000_imagnet_32.png" height="200"/><img src="fig/Top1000_coco_32.png" height="200"/><img src="fig/next.png" height="200"/>
 
 >Visualization of Semantic Features
 
-![31](fig/label_hot.png)![32](fig/image_hot.png)
+<img src="fig/label_hot.png" height="200"/><img src="fig/image_hot.png" height="200"/>
