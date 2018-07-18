@@ -2,7 +2,7 @@
 # Copyright 17-12-21 下午3:46. All Rights Reserved.
 # Author: Li Ning 
 # E-mail: ningli2017@gmail.com
-# File: mutilabel_hash.py 
+# File: DSEH.py 
 # Time: 17-12-21 下午3:46
 
 import os
