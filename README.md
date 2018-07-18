@@ -10,7 +10,7 @@
 ![map](fig/map.png)
 >PR curve
 
-<img src="fig/pr_nuswide_32.png" height="160"/> <img src="fig/pr_imagenet_32.png" height="160"/> <img src="fig/pr_coco_32.png" height="160"/> <img src="fig/next.png" height="140"/> 
+<img src="fig/pr_nuswide_32.png" height="170"/> <img src="fig/pr_imagenet_32.png" height="170"/> <img src="fig/pr_coco_32.png" height="170"/> <img src="fig/next.png" height="170"/> 
 
 >Top 1000 curve
 
