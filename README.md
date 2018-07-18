@@ -16,6 +16,6 @@
 
 <img src="fig/Top1000_nuswide_32.png" height="170"/><img src="fig/Top1000_imagenet_32.png" height="170"/><img src="fig/Top1000_coco_32.png" height="170"/><img src="fig/next.png" height="170"/>
 
->Visualization of Semantic Features
+>Visualization of Semantic Features *LabNet ImgNet*
 
 <img src="fig/label_hot.png" height="190"/><img src="fig/image_hot.png" height="190"/>
