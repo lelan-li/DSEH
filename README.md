@@ -1,6 +1,9 @@
 ## DSEH
 [Deep Joint Semantic-Embedding Hashing](https://www.ijcai.org/proceedings/2018/0332.pdf)
 
+## Abstract
+Hashing has been widely deployed to large-scale image retrieval due to its low storage cost and fast query speed. Almost all deep hashing methods do not sufficiently discover semantic correlation from label information, which results in the learned hash codes less discriminative. In this paper, we propose a novel **D**eep Joint **S**emantic-**E**mbedding **H**ashing (***DSEH***) approach that consists of *LabNet* and *ImgNet*. Specifically, *LabNet* is explored to capture abundant semantic correlation between sample pairs and supervise *ImgNet* from both semantic level and hash codes level, which is conductive to the generated hash codes being more discriminative and similarity-preserving. Extensive experiments on three benchmark datasets show that the proposed model outperforms current state-of-the-art methods.
+
 ## Framework
 ![Framework](framework.png)
 
